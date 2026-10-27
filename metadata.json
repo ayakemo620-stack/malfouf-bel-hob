@@ -1,0 +1,7 @@
+{
+  "name": "ملفوف بالحب - أكل بيتي مصري أصيل",
+  "description": "متجر إلكتروني مصري للأكل البيتي الطازة: محاشي ورق عنب وكرنب، جلاش مورق، وطواجن مكرونة بشاميل ونجرسكو بالسمنة البلدي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
